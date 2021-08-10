@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* header */
 
 header {
     padding: 20px;
@@ -39,7 +40,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* text elements */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -48,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,7 +68,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* main body */
  main{
     width: 75%;
     display: inline-block;
@@ -85,6 +86,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* summary section */
 summary {
     margin-bottom: 32px;
     color: #ffffff;
@@ -106,6 +108,7 @@ summary img {
 
 
 
+/* aticle section */
 
 article{
     margin-bottom: 20px;
@@ -130,7 +133,7 @@ main article h2 {
     font-size: 36px;
 }
 
-
+/* footer */
 
 footer {
     padding: 30px;
